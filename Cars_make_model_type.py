@@ -113,7 +113,7 @@ for el in data_range:
             models.remove(mod)
 cars.close()
 
-# Creates all licese numbers randomly
+# Creates all license numbers randomly
 
 licence = open('LicenceNumbers.txt', 'w')
 list1 = ["W", "G", "S", "VI"]

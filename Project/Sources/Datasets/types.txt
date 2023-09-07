@@ -1,7 +1,0 @@
-"Coupe"
-"Convertible"
-"Sedan"
-"SUV"
-"Van/Minivan"
-"Hatchback"
-"Wagon"
